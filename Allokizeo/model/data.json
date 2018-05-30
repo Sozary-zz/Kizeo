@@ -1,0 +1,139 @@
+[{
+    "title": "Solo: A Star Wars Story",
+    "directors": ["Ron Howard"],
+    "writters": ["Jonathan Kasdan", " Lawrence Kasdan"],
+    "stars": ["Alden Ehrenreich", " Woody Harrelson", " Emilia Clarke"],
+    "pic": "images/1.jpg",
+    "year": 2018,
+    "rate": 2
+  }, {
+    "title": "Avengers: Infinity War",
+    "directors": ["Anthony Russo", " Joe Russo"],
+    "writters": ["Christopher Markus", " Stephen McFeely"],
+    "stars": ["Robert Downey Jr.", " Chris Hemsworth", " Mark Ruffalo"],
+    "pic": "images/2.jpg",
+    "year": 2018,
+    "rate": 4
+  }, {
+    "title": "Deadpool 2",
+    "directors": ["David Leitch"],
+    "writters": ["Rhett Reese", " Paul Wernick"],
+    "stars": ["Ryan Reynolds", " Josh Brolin", " Morena Baccarin"],
+    "pic": "images/3.jpg",
+    "year": 2018,
+    "rate": 4
+  },
+  {
+    "title": "Deadpool",
+    "directors": ["David Leitch"],
+    "writters": ["Rhett Reese", " Paul Wernick"],
+    "stars": ["Ryan Reynolds", " Rocco Siffredi", " Morena Baccarin"],
+    "pic": "images/4.jpg",
+    "year": 2018,
+    "rate": 3
+  }, {
+    "title": "Avengers",
+    "directors": ["Anthony Russo", " Joe Russo"],
+    "writters": ["Christopher Markus", " Stephen McFeely"],
+    "stars": ["Robert Downey Jr.", " Chris Hemsworth", " Mark Ruffalo"],
+    "pic": "images/5.jpg",
+    "year": 2012,
+    "rate": 4
+  }, {
+    "title": "Avengers 2",
+    "directors": ["Anthony Russo", " Joe Russo"],
+    "writters": ["Christopher Markus", " Stephen McFeely"],
+    "stars": ["Robert Downey Jr.", " Chris Hemsworth", " Mark Ruffalo"],
+    "pic": "images/6.jpg",
+    "year": 2015,
+    "rate": 5
+  }, {
+    "title": "Guardians of the Galaxy",
+    "directors": ["James Gunn"],
+    "writters": ["James Gunn", " Nicole Perlman"],
+    "stars": ["Chris Pratt", " Vin Diesel", " Bradley Cooper"],
+    "pic": "images/7.jpg",
+    "year": 2014,
+    "rate": 3
+  }, {
+    "title": "Guardians of the Galaxy 2",
+    "directors": ["James Gunn"],
+    "writters": ["James Gunn", " Nicole Perlman"],
+    "stars": ["Chris Pratt", " Vin Diesel", " Bradley Cooper"],
+    "pic": "images/8.jpg",
+    "year": 2017,
+    "rate": 2
+  }, {
+    "title": "The Incredible Hulk",
+    "directors": ["Louis Leterrier"],
+    "writters": ["James Gunn", " Nicole Perlman"],
+    "stars": ["Chris Pratt", " Vin Diesel", " Bradley Cooper"],
+    "pic": "images/9.jpg",
+    "year": 2008,
+    "rate": 1
+  }, {
+    "title": "Thor 1",
+    "directors": ["Louis Leterrier"],
+    "writters": ["James Gunn", " Nicole Perlman"],
+    "stars": ["Chris Pratt", " Vin Diesel", " Bradley Cooper"],
+    "pic": "images/10.jpg",
+    "year": 2011,
+    "rate": 3
+  }, {
+    "title": "Thor 2",
+    "directors": ["Louis Leterrier"],
+    "writters": ["James Gunn", " Nicole Perlman"],
+    "stars": ["Chris Pratt", " Vin Diesel", " Bradley Cooper"],
+    "pic": "images/11.jpg",
+    "year": 2013,
+    "rate": 1
+  }, {
+    "title": "Thor 3",
+    "directors": ["Louis Leterrier"],
+    "writters": ["James Gunn", " Nicole Perlman"],
+    "stars": ["Chris Pratt", " Vin Diesel", " Bradley Cooper"],
+    "pic": "images/12.jpg",
+    "year": 2017,
+    "rate": 3
+  }, {
+    "title": "Doctor Strange",
+    "directors": ["Louis Leterrier"],
+    "writters": ["James Gunn", " Nicole Perlman"],
+    "stars": ["Chris Pratt", " Vin Diesel", " Bradley Cooper"],
+    "pic": "images/13.jpg",
+    "year": 2017,
+    "rate": 5
+  }, {
+    "title": "Iron man",
+    "directors": ["Louis Leterrier"],
+    "writters": ["James Gunn", " Nicole Perlman"],
+    "stars": ["Chris Pratt", " Vin Diesel", " Bradley Cooper"],
+    "pic": "images/14.jpg",
+    "year": 2008,
+    "rate": 3
+  }, {
+    "title": "Iron man 2",
+    "directors": ["Louis Leterrier"],
+    "writters": ["James Gunn", " Nicole Perlman"],
+    "stars": ["Chris Pratt", " Vin Diesel", " Bradley Cooper"],
+    "pic": "images/15.jpg",
+    "year": 2010,
+    "rate": 4
+  }, {
+    "title": "Iron man 3",
+    "directors": ["Louis Leterrier"],
+    "writters": ["James Gunn", " Nicole Perlman"],
+    "stars": ["Chris Pratt", " Vin Diesel", " Bradley Cooper"],
+    "pic": "images/16.jpg",
+    "year": 2013,
+    "rate": 1
+  }, {
+    "title": "Spider-Man: Homecoming",
+    "directors": ["Louis Leterrier"],
+    "writters": ["James Gunn", " Nicole Perlman"],
+    "stars": ["Chris Pratt", " Vin Diesel", " Bradley Cooper"],
+    "pic": "images/17.jpg",
+    "year": 2017,
+    "rate": 3
+  }
+]
